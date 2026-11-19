@@ -1,0 +1,1 @@
+Tesseract.js 5.1.1, tesseract.js-core 5.1.1 (LSTM builds) and English data from @tesseract.js-data/eng 1.0.0 (4.0.0_best_int), copied unchanged from npm so Orbit can read screenshots on the phone with no outside requests. Apache License 2.0 (see the LICENSE files here).
